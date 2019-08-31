@@ -1,3 +1,3 @@
 # CNNDogBreedClassifier
-In this Udacity project, I learned how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, my algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+In this Udacity Deep Learning NanoDegree project, I learned how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, my algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 Along with exploring state-of-the-art CNN models for classification, I made important design decisions about the user experience for your app. Furthermore, by completing this lab, I gained a deeper understanding of the  challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. 
